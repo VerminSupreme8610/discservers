@@ -1,0 +1,2 @@
+# discservers
+discord servers list
